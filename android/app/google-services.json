@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "870454415942",
+    "project_id": "pingokart-712fc",
+    "storage_bucket": "pingokart-712fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870454415942:android:eac96b80c3cb6b42dfb047",
+        "android_client_info": {
+          "package_name": "com.example.pingokart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkEzhAArcGpcCm5u-uLHrTtjIfK-DlYJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870454415942:android:22eca868236e4bdcdfb047",
+        "android_client_info": {
+          "package_name": "com.pingo.kart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkEzhAArcGpcCm5u-uLHrTtjIfK-DlYJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
